@@ -7,7 +7,7 @@ Mis metas son: <h1>
 # Estudias, aprender cada día mas<h2>
 # Trabajar y tener la vida que quiero
 # Y experimentar cada día mas cosas y experiencias bonitas 
-Mis metas en tecnologia y diseño:<h1>
+Mis metas en tecnologia y diseño:<h6>
 # Seguir aprendiendo sobre Sitios Web y demás
 # Ganar y aprender mas cada moduloo
 # Y entender bien sobre cada cosa y Sitios Web para crear los míos propios
