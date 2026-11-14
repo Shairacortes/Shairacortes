@@ -7,9 +7,9 @@
 ---
 
 ### 🎨 Sobre mí
-* 💤 Me encanta dormir y recargar energías.
+* 💤 Me encanta dormir.
 * 💃 Disfruto mucho bailar.
-* ✨ Siempre estoy abierta a vivir nuevas experiencias y aprender cosas diferentes.
+* ✨ Quiero vivir nuevas experiencias y aprender cosas diferentes.
 * ✝️ Sigo y tengo presente a Dios en mi camino.
 
 ### 💻 Mis Habilidades y Enfoque Actual
